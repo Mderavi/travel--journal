@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -37,37 +25,36 @@
       "id": "98443197"
     },
     {
-      "id": "a635",
-      "cityName": "Groises",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2025-07-17T11:45:48.718Z",
-      "notes": "",
+      "id": "658e",
+      "cityName": "Stratford-upon-Avon",
+      "emoji": "🇬🇧",
+      "date": "2025-07-29T02:48:12.216Z",
+      "notes": "xcb",
       "position": {
-        "lat": "47.204642388766935",
-        "lng": "2.83447265625"
+        "lat": "52.2008737173322",
+        "lng": "-1.5820312500000002"
       }
     },
     {
-      "id": "4487",
-      "cityName": "Montauban",
+      "id": "da87",
+      "cityName": "Poule-les-Echarmeaux",
       "emoji": "🇫🇷",
-      "date": "2025-07-17T11:50:04.911Z",
+      "date": "2025-07-29T02:50:54.266Z",
       "notes": "",
       "position": {
-        "lat": "43.97700467496408",
-        "lng": "1.40625"
+        "lat": "46.17983040759436",
+        "lng": "4.460449218750001"
       }
     },
     {
-      "id": "0f7a",
-      "cityName": "Bellevue-la-Montagne",
+      "id": "b60a",
+      "cityName": "Nespouls",
       "emoji": "🇫🇷",
-      "date": "2025-07-17T11:56:38.456Z",
+      "date": "2025-07-29T02:52:41.878Z",
       "notes": "",
       "position": {
-        "lat": "45.19752230305685",
-        "lng": "3.8232421875000004"
+        "lat": "45.042478050891546",
+        "lng": "1.47216796875"
       }
     }
   ]
